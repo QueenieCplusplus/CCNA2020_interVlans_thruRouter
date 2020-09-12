@@ -18,3 +18,6 @@ vlan 內的影格封包是透過泛洪和廣播轉發的，但如果 vlan 外的
 
 
         Host A          VlanA        int 1 - Router - int 2        Vlan B         Host B
+
+
+（to be continued...)
